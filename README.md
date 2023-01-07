@@ -1,9 +1,12 @@
-# Obligatorio 2
-## Redes de Computadoras 2022 - Facultad de Ingeniería - UdelaR
-GRUPO 16:
+# sockets_distributed_database
+# Jorge Machado Ottonelli - Redes de Computadoras - INCO Facultad de Ingenieria UdelaR
+
+Proyecto del laboratorio de Redes de Computadoras, realizada con los compañeros:
  *      Alexis Baladón
  *      Jorge Machado
  *      Mathias Martinez
+ 
+sockets_distributed_database es una base de datos distribuida implementada con sockets TCP y UDP, donde servidores intercambian mensajes para satisfacer consultas de clientes. Se aplican además conceptos teóricos como broadcasting.
 
 ### Atención:
 Aplicaciones ejecutadas utilizando Python versión 3.6.9.
